@@ -9,5 +9,8 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Touch Timer</string>
+    <string name="label_timer_running">Tap to Pause</string>
+    <string name="label_timer_paused">Tap to Resume</string>
+    <string name="label_timer_unset">Tap and swipe up</string>
 </resources>
